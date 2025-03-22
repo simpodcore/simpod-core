@@ -1,0 +1,30 @@
+{
+    "executions": [
+        {
+            "bot": "0xAbC1234567890defABC1234567890DefABc12345",
+            "roiBasisPoints": 120,
+            "timestamp": "2025-03-22T09:00:00Z",
+            "network": "Ethereum",
+            "txHash": "0xabcde12345deadbeef00112233445566778899aabbccddeeff00112233445566"
+        },
+        {
+            "bot": "0x9999999999999999999999999999999999999999",
+            "roiBasisPoints": 85,
+            "timestamp": "2025-03-22T10:30:00Z",
+            "network": "Optimism",
+            "txHash": "0xbeefbeefbeefbeefbeefbeefbeefbeefbeefbeefbeefbeefbeefbeefbeefbeef"
+        },
+        {
+            "bot": "0x1234567890123456789012345678901234567890",
+            "roiBasisPoints": 143,
+            "timestamp": "2025-03-22T11:45:00Z",
+            "network": "Arbitrum",
+            "txHash": "0xdeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddead"
+        }
+    ],
+    "meta": {
+        "source": "simulated-bot-ROI-evaluator",
+        "version": "1.0",
+        "description": "Simulated historical execution data for SIMPOD Executor evaluation."
+    }
+}
